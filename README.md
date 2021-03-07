@@ -1,7 +1,7 @@
 # Covid-19 Predictive Algorithm challenge
 ## This is a Hackathon challenge group project. Huge thanks to the teammembers (Team Monks). 
 
-The dataset contains the following features: county, state, fips, cases, deaths, region
+Obtained from a public datasets by NYT. The dataset contains the following features: county, state, fips, cases, deaths, region
 
 The goal of the project is to develop a predictive algorithm to predict the number of positive cases in the US between 7/27/20 - 8/15/20.
 
